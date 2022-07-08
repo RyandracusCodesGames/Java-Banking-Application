@@ -1,0 +1,9 @@
+Java Bank App Breakdown:
+https://youtu.be/PTo5yPfcsMg
+
+Java Bank App Coding Livestream:
+Part I: https://youtu.be/-KCzVDiZ_UM
+Part II: https://youtu.be/PBNJovd04fI
+
+WARNING:
+DO NOT CLICK IN TEXT BOX ONCE YOU LOGIN BEFORE MAKING A TRANSACTION. WILL HAVE TO RESTART APPLICATION.
